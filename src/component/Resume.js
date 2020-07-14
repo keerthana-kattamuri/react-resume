@@ -10,7 +10,7 @@ class Resume extends Component {
           <div className="col-sm-12 col-lg-4 leftPanel text-center p-2">
             <img
               src="https://images.unsplash.com/photo-1494548162494-384bba4ab999?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
-              alt="profile image"
+              alt="profile"
               width="300px"
               height="300px"
             />
