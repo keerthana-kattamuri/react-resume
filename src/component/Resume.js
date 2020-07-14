@@ -16,7 +16,7 @@ class Resume extends Component {
             />
             <h5>Name: Keerthana</h5>
             <h5>Mobile: 9635412874</h5>
-            <h5>Email: keerthana.kattamuri@gmailcom</h5>
+            <h5>Email: keerthana@gmailcom</h5>
             <h5>Addres: Vizag</h5>
           </div>
           <div className="col-sm-12 col-lg-8 rightPanel p-2">
