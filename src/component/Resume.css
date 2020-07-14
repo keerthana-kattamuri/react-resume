@@ -1,0 +1,11 @@
+.leftPanel {
+  border-radius: 4px;
+  background-color: black;
+  color: white;
+}
+
+.leftPanel h5 {
+  margin: 20px;
+}
+
+
